@@ -8,5 +8,5 @@ Our platform provides a secure and transparent avenue for NGOs to showcase their
 Leveraging the power of cryptocurrency, donors can contribute confidently, assured that their funds are allocated for the intended purpose and will provide secured decentralized transparent environment.  
 With a focus on a user-friendly interface and the implementation of Solidity smart contracts, Crypto-Daan strives to revolutionize the donation landscape, fostering a culture of transparency and accountability in the philanthropic sector.
 Crypto-Daan will have an add on feature of chatbot for easy access of information of any NGO listed making sure that peoples hard earned donated money reaches the needy and serves them and bring societal upliftment
-
+With a stunning design, connected to the blockchain, metamask pairing, interaction with smart contracts, sending Ethereum through the blockchain network, and writing solidity code.
 
